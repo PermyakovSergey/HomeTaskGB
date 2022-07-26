@@ -1,6 +1,8 @@
 # Home task of seminar
 ## Headers
 
+to add a title, we write a grid sign at the beginning of the line
+
 To specify the level of headers, you just need to put right number of grids (several) at the beginning of the line
 
 ## Lists
