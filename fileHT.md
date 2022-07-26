@@ -24,4 +24,10 @@ To hightlighting the text by strikethrough frame it in ~~double tilde~~
 
 underscores or underlining or understrike where is the truth?! quod est in quaestione :)
 
+## Images and links
+
+![Bonus](8067.jpg)
+
+Автор: Юрин Илья Юрьевич
+
 i want to sleep
