@@ -29,6 +29,10 @@ If we use different characters, the indentation between the lines of the list in
 
 ## Working with images
 
+To add an image, write an exclamation mark (point) at the begining of the line, then square brackets, then in parentheses the name of the file located in the repository folder.
+
+![](1575.jpg "перевод знаков")
+
 ## Links
 
 ## Quotes
