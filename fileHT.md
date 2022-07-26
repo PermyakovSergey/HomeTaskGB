@@ -3,6 +3,8 @@
 
 to add a title, we write a grid sign at the beginning of the line
 
+To specify the level of headers, you just need to put right number of grids (several) at the beginning of the line
+
 ## Lists
 1. first element
 2. second element
