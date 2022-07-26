@@ -8,6 +8,26 @@ To hightlighting the text in bold, **frame it with double asterisks** or __doubl
 
 To hightlighting the text by strikethrough frame it in ~~double tilde~~
 
+We can combine the selection methods, examples bellow
+
+***italic and bold text***
+
+___italic and bold text___
+
+__*italic and bold text*__
+
+**_italic and bold text_**
+
+~~*italic and strikethrough text*~~
+
+**~~strikethrough and bold text~~**
+
+___~~strikethrough, italic and bold text~~___
+
+~~*__strikethrough, italic and bold text__*~~
+
+**The formatting order does not matter**
+
 ## Lists
 
 ## Working with images
