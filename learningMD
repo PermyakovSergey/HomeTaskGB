@@ -33,11 +33,23 @@ To create a numbered list, use a digit with a dot at the beginning of the line
 2. Second element
 3. Third element
 
+Markdown markup also allows you to design multi-level list. The level is indicated by indentation.  It is easier not to count spaces, but to hightlight each new subparagraph with a tab. Examples bellow
 
+1. Item 1
+    1. Sub-item 1.1
+        * Sub-item 1.1.a
+    2. Sub-item 2.1
+        1. Sub-item 2.1.1
 
+2. Item2
+    * sub-item A
+        * sub-item A.a
+    * sub-item B
+        + sub-item B.a
+        - sub-item B.b
+    + sub-item C
+add
 ## Working with images
-
-
 
 ## Links
 
