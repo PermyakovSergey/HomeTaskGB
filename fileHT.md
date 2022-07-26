@@ -1,4 +1,8 @@
 # Home task of seminar
+## Headers
+
+to add a title, we write a grid sign at the beginning of the line
+
 ## Lists
 1. first element
 2. second element
