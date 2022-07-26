@@ -11,3 +11,5 @@
 To *highlighting the text in italics, frame it with asterisks*
 
 To _highlighting the text in italics, frame it with underscores_
+
+To **highlighting the text in bold, frame it with double asterisks** or __double underscores__
