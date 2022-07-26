@@ -4,6 +4,30 @@
 
 ## Lists
 
+To create an unnumbered list, write at the beginning of the line (*) or (+) or (-) then a space. Examples bellow
+
+* First element
+* Second element
+* Third element
+
++ First element
++ Second element
++ Third element
+
+- First element
+- Second element
+- Third element
+
+If we use different characters, the indentation between the lines of the list increases
+
+* First element
+* Second element
+- Third element
+- Fourth element
++ Fifth element
++ Sixth element
+
+
 ## Working with images
 
 ## Links
