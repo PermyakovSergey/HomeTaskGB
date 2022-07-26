@@ -5,6 +5,10 @@
 3. third element
   * sub-element 1
     + sub-element 1a
+
 ## Text selection
 
 To *highlighting the text in italics, frame it with asterisks*
+
+## Выделение текста
+To _highlighting the text in italics, frame it with underscores_
