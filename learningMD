@@ -85,9 +85,6 @@ To add an image, write an exclamation mark (point) at the begining of the line, 
 
 ## Links
 
-<<<<<<< HEAD
-Before merging with a dranch links
-=======
 To put a hyperlink without an anchor, you need to take the URL in angle brackets. With e-mail similarly
 
 <https://texterra.ru/> link without anchor
@@ -97,7 +94,6 @@ if you insert with an anchor, then the link text is enclosed in square brackets,
 This is the [link](https://texterra.ru/) without title
 
 This is the [link](https://texterra.ru/ "site Texterra") with a title
->>>>>>> links
 
 ## Quotes
 
