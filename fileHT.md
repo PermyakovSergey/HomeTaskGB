@@ -30,4 +30,6 @@ underscores or underlining or understrike where is the truth?! quod est in quaes
 
 Автор: Юрин Илья Юрьевич
 
+Источник: [ссылка](https://stihi.ru/2022/04/19/8067)
+
 i want to sleep
