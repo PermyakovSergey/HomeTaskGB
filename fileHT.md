@@ -1,4 +1,5 @@
 # Home task of seminar
+
 ## Headers
 
 to add a title, we write a grid sign at the beginning of the line
@@ -6,6 +7,7 @@ to add a title, we write a grid sign at the beginning of the line
 To specify the level of headers, you just need to put right number of grids (several) at the beginning of the line
 
 ## Lists
+
 1. first element
 2. second element
 3. third element
@@ -14,13 +16,10 @@ To specify the level of headers, you just need to put right number of grids (sev
 
 ## Text selection
 
-To *highlighting the text in italics, frame it with asterisks*
-
-To _highlighting the text in italics, frame it with underscores_
+To *highlighting the text in italics, frame it with asterisks* or _underscores_
 
 To **highlighting the text in bold, frame it with double asterisks** or __double underscores__
 
 To hightlighting the text by strikethrough frame it in ~~double tilde~~
 
-для добавления зачеркнутого текста обрамляем его двойной тильдой
-
+underscores or underlining or understrike where is the truth?! quod est in quaestione :)
