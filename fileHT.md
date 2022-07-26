@@ -11,3 +11,5 @@
 To *highlighting the text in italics, frame it with asterisks*
 
 To _highlighting the text in italics, frame it with underscores_
+
+для добавления полужирного текста обрамляем его двойными звездочками либо двойным подчеркиванием
