@@ -27,8 +27,17 @@ If we use different characters, the indentation between the lines of the list in
 + Fifth element
 + Sixth element
 
+To create a numbered list, use a digit with a dot at the beginning of the line
+
+1. First element
+2. Second element
+3. Third element
+
+
 
 ## Working with images
+
+
 
 ## Links
 
