@@ -1,6 +1,24 @@
 # Instructions for working with MarkDown
 
 ## Git command
+### Основные команды
+- version - 
+- status - когда возникают вопросы :)
+### Создание репозитория и работа с файлами
+- init - инициализация репозитория в выбранной папке
+- add - добавление файла в отслеживаемые gitом
+- commit -m "text of the comment" - сохранение с комментарием
+- diff - 
+- log - 
+### Работа с ветками
+- branch - 
+- branch <name of new branch> - 
+- branch -d <name of branch> - 
+- checkout <name of branch> - 
+- checkout -b <name of branch> - 
+- branch -m <old name of branch> <new name of branch> - 
+- merge <name of branch> - 
+
 
 ## Text selection
 
