@@ -81,6 +81,16 @@ Markdown markup also allows you to design multi-level list. The level is indicat
 
 ## Links
 
+To put a hyperlink without an anchor, you need to take the URL in angle brackets. With e-mail similarly
+
+<https://texterra.ru/> link without anchor
+
+if you insert with an anchor, then the link text is enclosed in square brackets, and the page address is in round brachets. to the URL, you can write a title, it is declared in quotation marks (it also remains inside parentheses)
+
+This is the [link](https://texterra.ru/) without title
+
+This is the [link](https://texterra.ru/ "site Texterra") with a title
+
 ## Quotes
 
 ## Conclusion
