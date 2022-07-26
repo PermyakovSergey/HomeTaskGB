@@ -97,6 +97,11 @@ This is the [link](https://texterra.ru/ "site Texterra") with a title
 
 ## Quotes
 
-Слияние с цитатами
+To add a quote, use one angle bracket. Quotes are embedded both in lists and in other quotes
+
+>quote
+>>encloset quote
+>>>third-level quote
+>>>>>>> quotes
 
 ## Conclusion
