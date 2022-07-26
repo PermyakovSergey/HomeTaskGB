@@ -26,4 +26,8 @@ underscores or underlining or understrike where is the truth?! quod est in quaes
 
 ## Images and links
 
-![Bonus](
+![Bonus](8067.jpg)
+
+Автор: Юрин Илья Юрьевич
+
+[Источник](https://stihi.ru/2022/04/19/8067 "ссылка на сайт автора изображения")
